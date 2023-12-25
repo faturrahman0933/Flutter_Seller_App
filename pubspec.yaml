@@ -44,6 +44,9 @@ dependencies:
   dartz: ^0.10.1
   http: ^1.1.2
   image_picker: ^1.0.5
+  firebase_core: ^2.24.2
+  flutter_local_notifications: ^16.2.0
+  firebase_messaging: ^14.7.9
 
 dev_dependencies:
   flutter_test:
